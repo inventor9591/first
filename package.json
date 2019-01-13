@@ -1,0 +1,25 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inventor9591/hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/inventor9591/hello-world/issues"
+  },
+  "homepage": "https://github.com/inventor9591/hello-world#readme",
+  "description": ""
+}
